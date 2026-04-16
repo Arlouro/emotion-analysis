@@ -1,0 +1,5 @@
+Text,Negative,Neutral,Positive,Compound
+I love this product! It's amazing.,0.0,0.266,0.734,0.8516
+This is the worst experience I've ever had.,0.369,0.631,0.0,-0.6249
+It's okay, not great but not terrible either.,0.18,0.419,0.401,0.3887
+I am not very happy, but I am also not especially sad,0.153,0.581,0.266,0.3713

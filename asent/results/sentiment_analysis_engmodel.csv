@@ -1,0 +1,5 @@
+Text,Polarity
+I love this product! It's amazing.,neg=0.0 neu=0.456 pos=0.544 compound=0.6278 n_sentences=2
+This is the worst experience I've ever had.,neg=0.313 neu=0.687 pos=0.0 compound=-0.6249 n_sentences=1
+It's okay, not great but not terrible either.,neg=0.144 neu=0.536 pos=0.32 compound=0.3887 n_sentences=1
+I am not very happy, but I am also not especially sad,neg=0.126 neu=0.656 pos=0.218 compound=0.3713 n_sentences=1

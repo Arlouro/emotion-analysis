@@ -20,17 +20,32 @@ texts = [
     "I am not very happy, but I am also not especially sad"
 ]
 
+# CSV header
+with open("./asent/results/sentiment_analysis_engmodel.csv", "w", encoding="utf-8") as f:
+    f.write("Text,Polarity")
+
 for text in texts:
     doc = nlp(text)
     print(f"Text: {text}")
     print(f"Polarity: {doc._.polarity}")
 
+    # Save to txt file
+    """ with open("./asent/results/sentiment_analysis_engmodel.txt", "a", encoding="utf-8") as f:
+        f.write(f"Text: {text}\n")
+        f.write(f"Polarity: {doc._.polarity}\n\n") """
+    
+    # FIX: Fix csv some phrases are being divided in seperate columns
+    # Save to CSV file
+    with open("./asent/results/sentiment_analysis_engmodel.csv", "a", encoding="utf-8") as f:
+        f.write(f"\n{text},{doc._.polarity}")
+
+
 # visualize model prediction
 html = asent.visualize(doc, style="prediction")
-with open("./asent/sentiment_engmodel.html", "w", encoding="utf-8") as f:
+with open("./asent/results/visualizations/sentiment_engmodel.html", "w", encoding="utf-8") as f:
     f.write(html) 
 
 # visualize the analysis performed by the model:
 html2 = asent.visualize(doc, style="analysis")
-with open("./asent/sentiment_analysis_engmodel.html", "w", encoding="utf-8") as f:
+with open("./asent/results/visualizations/entiment_analysis_engmodel.html", "w", encoding="utf-8") as f:
     f.write(html2)

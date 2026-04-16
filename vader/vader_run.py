@@ -5,7 +5,8 @@ analyzer = SentimentIntensityAnalyzer()
 texts = [
     "I love this product! It's amazing.",
     "This is the worst experience I've ever had.",
-    "It's okay, not great but not terrible either."
+    "It's okay, not great but not terrible either.",
+    "I am not very happy, but I am also not especially sad"
 ]
 
 for text in texts:

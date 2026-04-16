@@ -14,19 +14,24 @@ nlp = spacy.load("en_core_web_lg")
 nlp.add_pipe("asent_en_v1")
 
 # try an example
-text = "I am not very happy, but I am also not especially sad"
-doc = nlp(text)
+texts = [
+    "I love this product! It's amazing.",
+    "This is the worst experience I've ever had.",
+    "It's okay, not great but not terrible either.",
+    "I am not very happy, but I am also not especially sad"
+]
 
-# print polarity of document, scaled to be between -1, and 1
-print(doc._.polarity)
-# neg=0.0 neu=0.631 pos=0.369 compound=0.7526
+for text in texts:
+    doc = nlp(text)
+    print(f"Text: {text}")
+    print(f"Polarity: {doc._.polarity}")
 
 # visualize model prediction
 html = asent.visualize(doc, style="prediction")
-with open("sentiment_engmodel.html", "w", encoding="utf-8") as f:
-    f.write(html)
+with open("./asent/sentiment_engmodel.html", "w", encoding="utf-8") as f:
+    f.write(html) 
 
 # visualize the analysis performed by the model:
-html2 = asent.visualize(doc[:5], style="analysis")
-with open("sentiment_analysis_engmodel.html", "w", encoding="utf-8") as f:
+html2 = asent.visualize(doc, style="analysis")
+with open("./asent/sentiment_analysis_engmodel.html", "w", encoding="utf-8") as f:
     f.write(html2)

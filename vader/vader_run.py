@@ -5,7 +5,7 @@ analyzer = SentimentIntensityAnalyzer()
 
 texts = []
 
-with open("./vader/llm_comparative_analysis.csv", "r", encoding="utf-8") as f:
+with open("./vader/data/llm_comparative_analysis.csv", "r", encoding="utf-8") as f:
     reader = csv.reader(f)
     next(reader)  # skip header
     for row in reader:

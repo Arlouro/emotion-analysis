@@ -208,7 +208,9 @@ __marimo__/
 
 
 # Results & Data
-vader/results/
-vader/data/
+vader/*.csv
+vader/*.txt
 
-asent/results/
+asent/*.html
+asent/*.csv
+asent/*.txt

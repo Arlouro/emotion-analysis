@@ -1,0 +1,193 @@
+Style,Painting,Model,Iteration,Emotion,Explanation
+Portrait,Paul Verlaine (Felix Vallotton),GPT 5.3,1,sadness,"The downcast eyes and heavy lines on the face create a somber, melancholic mood."
+,,,2,something else,Stark black-and-white portrait with heavy lines and stern gaze evokes intensity but no clear specific emotion.
+,,,3,something else,"The stark black lines and exaggerated forehead create a stylized, neutral portrait without strong emotional cues."
+,,Muse Spark,1,sadness,"The furrowed brow and stark black lines create a somber, weary mood."
+,,,2,sadness,The heavy black shadows and downturned eyes convey melancholy and weight.
+,,,3,sadness,"The heavy black shadows and downcast eyes convey a somber, melancholic mood."
+,,Gemini 3.1 Pro,1,something else,"The heavy facial lines and stark black background create a solemn, brooding intensity rather than any listed emotion."
+,,,2,sadness,"The stark black shadows consuming the lower face and his deeply furrowed brow evoke a heavy, profound melancholy."
+,,,3,something else,"The stark black background and harsh, swirling lines on the forehead create a feeling of brooding intensity and unease."
+,,Sonnet 4.6,1,awe,"The bold woodcut lines and exaggerated facial mass create a striking, larger-than-life presence."
+,,,2,awe,"The bold woodcut lines and dramatic contrast create a striking, monumental portrait that commands attention."
+,,,3,awe,"The bold woodcut lines and exaggerated, looming face command attention with striking graphic intensity."
+,Flowers for Jennifer (Robert Brackman),GPT 5.3,1,contentment,"Soft colors, calm pose, and arranged flowers create a quiet, balanced domestic scene."
+,,,2,contentment,"Calm posture and soft gaze, with flowers and fruit, create a serene domestic atmosphere."
+,,,3,contentment,"Soft colors, relaxed pose, and still-life flowers create a calm, balanced domestic scene."
+,,Muse Spark,1,sadness,"Her weary gaze and exposed, vulnerable posture evoke quiet melancholy."
+,,,2,sadness,The woman's weary gaze and exposed torso convey vulnerability and melancholy.
+,,,3,sadness,Her weary expression while holding an apple evokes melancholy.
+,,Gemini 3.1 Pro,1,contentment,"The woman's gentle, downturned gaze and the vibrant flowers in the white pitcher evoke a quiet, reflective peace."
+,,,2,sadness,"The woman's downcast eyes and unsmiling face give the piece a melancholic feel, contrasting with the bright flowers."
+,,,3,sadness,"Her downward gaze and unsmiling face, paired with the muted grey walls, evoke a quiet sense of sorrow."
+,,Sonnet 4.6,1,contentment,"The warm tones, fresh flowers, and relaxed posture create a calm, domestic harmony."
+,,,2,contentment,"The soft warm palette and casual still life with flowers and fruit evoke quiet, domestic calm."
+,,,3,contentment,"The warm tones, fresh flowers, and fruit on the table create a calm, domestic tranquility."
+,Retired Butler (Vasily Vereshchagin),GPT 5.3,1,contentment,"The gentle smile and warm lighting on the man’s face create a calm, peaceful atmosphere."
+,,,2,contentment,"The gentle smile and relaxed eyes of the elderly man create a calm, reassuring presence."
+,,,3,contentment,The gentle smile and soft lighting on the elderly man’s face convey calm warmth and quiet satisfaction.
+,,Muse Spark,1,contentment,The soft smile and crinkled eyes suggest peaceful satisfaction in later life.
+,,,2,contentment,"His soft, closed-mouth smile and crinkled eyes convey quiet peace."
+,,,3,contentment,"His soft, closed-mouth smile and crinkled eyes convey peaceful acceptance of old age."
+,,Gemini 3.1 Pro,1,contentment,"His gentle smile and the warm crinkles around his eyes convey a quiet, peaceful satisfaction."
+,,,2,contentment,"His gentle, warm smile and the soft lighting across his deeply lined face evoke a quiet, peaceful satisfaction."
+,,,3,contentment,"The subject's subtle, warm smile and relaxed facial features evoke a peaceful sense of satisfaction."
+,,Sonnet 4.6,1,contentment,His warm smile and relaxed expression radiate quiet satisfaction and peace.
+,,,2,contentment,"His gentle smile and soft wrinkles suggest a life well-lived, radiating warmth and peaceful satisfaction."
+,,,3,contentment,"His warm smile and soft wrinkles suggest a life well-lived, radiating quiet joy."
+,Mademoiselle de Fitz-James (Henri Fantin-Latour),GPT 5.3,1,contentment,"Soft gaze, relaxed posture, and warm lighting create a calm, serene impression."
+,,,2,contentment,"Soft gaze, relaxed mouth, and warm tones create a calm, serene presence."
+,,,3,contentment,"The subject’s soft gaze and relaxed posture, with warm tones and gentle lighting, evoke calm and quiet satisfaction."
+,,Muse Spark,1,contentment,Her soft gaze and relaxed posture suggest quiet calm.
+,,,2,contentment,"Her soft gaze and relaxed shoulders, with the pink ribbon choker, create a gentle, serene calm."
+,,,3,contentment,Her soft gaze and the pink ribbon choker convey quiet calm against the dark background.
+,,Gemini 3.1 Pro,1,contentment,"The soft, warm lighting and her subtle, relaxed smile convey a deep sense of peace and quiet satisfaction."
+,,,2,contentment,"Her soft, faint smile and relaxed gaze convey a quiet peace, enhanced by the warm lighting on her face."
+,,,3,contentment,"Her subtle half-smile and the soft, warm lighting on her face convey a quiet, peaceful state."
+,,Sonnet 4.6,1,contentment,"Her soft gaze and gentle closed-mouth smile, paired with warm tones, evoke quiet calm."
+,,,2,contentment,"Her soft gaze and subtle smile, paired with the warm tones, evoke quiet calm and inner peace."
+,,,3,contentment,"Her soft gaze and slight smile, paired with the warm pink tones, evoke quiet, calm satisfaction."
+Landscape,Vesuvius from Posillipo (Joseph Wright),GPT 5.3,1,awe,"The glowing sky over the volcano and calm boats below creates a grand, dramatic contrast."
+,,,2,awe,"Dramatic glowing sky and distant volcanic eruption create a vast, powerful, and sublime atmosphere."
+,,,3,awe,"The glowing volcanic eruption and dramatic sky create a powerful, sublime contrast with the calm sea."
+,,Muse Spark,1,awe,The glowing orange eruption against dark cliffs and moonlit clouds feels vast and sublime.
+,,,2,awe,The moonlit clouds and distant fiery glow of Vesuvius inspire wonder at nature's power.
+,,,3,awe,"The glowing volcano and moonlit clouds create a sublime, humbling view of nature's power."
+,,Gemini 3.1 Pro,1,awe,The fiery red glow of the erupting volcano contrasting with the bright moonlight captures nature's overwhelming scale.
+,,,2,awe,The dramatic contrast between the fiery eruption and the serene moonlight shows nature's raw power.
+,,,3,awe,The striking contrast between the fiery red volcanic eruption and the glowing moonlight reveals nature's sublime majesty.
+,,Sonnet 4.6,1,awe,"The erupting volcano's fiery glow against the moonlit night sky creates a sublime, overwhelming spectacle."
+,,,2,awe,"The volcanic fiery glow against the moonlit sky and dark waters creates a sublime, overwhelming spectacle."
+,,,3,awe,"The erupting volcano's fiery glow against the moonlit sky and dark water creates a sublime, overwhelming spectacle."
+,In the Woods (Gustave Courbet),GPT 5.3,1,sadness,"Dark tones and blurred forms, especially the shadowy trees and dim light, create a somber, melancholic mood."
+,,,2,sadness,"Dark tones and blurred trees with shadowy water create a somber, melancholic atmosphere."
+,,,3,sadness,"Dark, muddy tones and blurred forest forms create a heavy, somber, almost oppressive atmosphere."
+,,Muse Spark,1,contentment,"The soft yellow-green foliage and shadowed rock face suggest a calm, secluded woodland."
+,,,2,contentment,"The dim green foliage and sunlit white rocks suggest a quiet, sheltered forest retreat."
+,,,3,contentment,"The dark foliage and sunlit white rocks create a calm, quiet feeling of forest solitude."
+,,Gemini 3.1 Pro,1,fear,"The heavy, pitch-black shadows enveloping the rugged rock face create a strong, foreboding sense of isolation."
+,,,2,something else,"The deep black shadows contrasting with the rough, pale highlights create a mysterious, quiet sense of isolation."
+,,,3,fear,"The oppressive black shadows and thick, dark brushstrokes around the illuminated rock create a sense of trapped dread."
+,,Sonnet 4.6,1,awe,"The dramatic contrast between dark forest shadows and bright white rocks creates a sense of vast, mysterious depth."
+,,,2,awe,"The dramatic contrast between dark forest shadows and bright white rocks creates a powerful, mysterious depth."
+,,,3,awe,The luminous white rock face emerging from deep shadow creates a sense of mystery and grandeur.
+,Country Churchyard and Old Church Tower (Vincent van Gogh),GPT 5.3,1,sadness,"Dilapidated church, broken windows, and surrounding graves under a grey sky evoke abandonment and decay"
+,,,2,sadness,"The ruined church, leaning structure, and scattered grave crosses evoke decay and loss."
+,,,3,sadness,"The crumbling church, broken windows, and scattered graves under a grey sky evoke decay and loss."
+,,Muse Spark,1,sadness,The crumbling tower and scattered graveyard crosses suggest decay and loss.
+,,,2,sadness,The crumbling tower and scattered grave crosses suggest decay and loss.
+,,,3,sadness,The crumbling brick tower and scattered grave crosses suggest decay and loss.
+,,Gemini 3.1 Pro,1,sadness,"The scattered wooden crosses, decaying tower, and dark flying birds evoke a heavy sense of mortality, loss, and decay."
+,,,2,sadness,The decaying brick tower and scattered grave crosses evoke a heavy sense of abandonment and loss.
+,,,3,sadness,"The crumbling, shadowy brick tower surrounded by scattered wooden crosses evokes a quiet sense of loss and decay."
+,,Sonnet 4.6,1,sadness,"The crumbling brick tower, surrounded by grave crosses and dark circling birds, evokes melancholy and decay."
+,,,2,sadness,"The crumbling brick tower, crooked crosses, and dark circling birds evoke melancholy and quiet desolation."
+,,,3,sadness,"The crumbling brick tower, darkened sky, and scattered grave crosses evoke quiet melancholy and decay."
+,Dedham Lock and Mill (John Constable),GPT 5.3,1,contentment,"The calm river, soft light, and rural mill scene create a peaceful, balanced atmosphere."
+,,,2,contentment,Calm river and soft light on trees and cottages create a peaceful rural atmosphere.
+,,,3,contentment,"Calm river, soft light, and rural cottages create a peaceful, balanced pastoral scene."
+,,Muse Spark,1,contentment,"Calm water reflecting sky, large shade tree, and quiet mill evoke peaceful rural ease."
+,,,2,contentment,"Still water reflecting the mill and the large shade tree convey quiet, pastoral peace."
+,,,3,contentment,"Calm river reflecting light, the mill, and large trees create a peaceful, pastoral stillness."
+,,Gemini 3.1 Pro,1,contentment,The calm river reflecting the soft sky and the quiet rural mill evoke a deep sense of peacefulness.
+,,,2,contentment,"The calm, reflective river and the soft light over the lush trees evoke a deep, quiet feeling of peacefulness."
+,,,3,contentment,"The calm river reflecting the soft sky and the quiet, rustic mill evoke a peaceful, serene sense of rural life."
+,,Sonnet 4.6,1,contentment,"The calm river, lush trees, and pastoral village scene evoke a peaceful, timeless sense of rural harmony."
+,,,2,contentment,"Calm river, soft greens, and gentle light create a peaceful rural harmony."
+,,,3,contentment,"The calm river, grazing horses, and soft pastoral light create a serene, unhurried sense of peace."
+Genre Painting,Lovers (Konstantin Somov),GPT 5.3,1,contentment,"A couple gently embracing under a tree in a calm landscape evokes warmth, intimacy, and peaceful affection."
+,,,2,contentment,A calm couple embracing under a tree in a soft landscape evokes peaceful intimacy and warmth.
+,,,3,contentment,"The couple embracing on a tree stump, with soft colors and calm landscape, evokes peaceful intimacy."
+,,Muse Spark,1,contentment,The man's kiss on the woman's forehead and their close embrace under the birch convey quiet intimacy
+,,,2,sadness,"The woman's pale, upturned face and the dark, cloudy sky make the tender embrace feel melancholic, not joyful."
+,,,3,sadness,"The woman's pale, upturned face and grey sky create a melancholic mood."
+,,Gemini 3.1 Pro,1,contentment,"The couple's close embrace and the gentle kiss on the forehead evoke a quiet, peaceful sense of contentment."
+,,,2,contentment,"The man tenderly kissing her head as they sit on the tree stump conveys a quiet, peaceful affection."
+,,,3,contentment,"The couple's relaxed embrace while seated on the tree stump evokes a quiet, peaceful feeling."
+,,Sonnet 4.6,1,contentment,The couple's tender embrace beneath the birch tree radiates warmth and peaceful intimacy.
+,,,2,contentment,"The couple's tender embrace beneath the birch tree radiates quiet, romantic peace."
+,,,3,contentment,The couple's tender embrace beneath birch trees radiates warmth and peaceful romantic intimacy.
+,Smokers in an Interior (David Teniers the Younger),GPT 5.3,1,amusement,"The relaxed posture and shared pipe-smoking scene create a casual, humorous social moment."
+,,,2,amusement,"The relaxed men smoking and laughing around a table create a casual, humorous social scene."
+,,,3,amusement,"The men laughing and smoking together, especially the relaxed posture and smiles, create a light, humorous scene."
+,,Muse Spark,1,amusement,"The man in the pink shirt leaning back, eyes up while exhaling smoke, looks comically blissful."
+,,,2,contentment,"The man in pink leaning back blowing smoke conveys relaxed, convivial contentment."
+,,,3,contentment,"The central figure leaning on the barrel, blowing smoke upward, conveys relaxed, cozy satisfaction."
+,,Gemini 3.1 Pro,1,contentment,The relaxed posture of the man in the pink shirt leaning back to blow smoke conveys a sense of peaceful leisure.
+,,,2,contentment,The man in the pink shirt leaning back and blowing smoke conveys a quiet sense of leisure.
+,,,3,contentment,The man in pink leaning back comfortably while exhaling pipe smoke strongly conveys a sense of relaxed leisure.
+,,Sonnet 4.6,1,contentment,"The man in pink exhales smoke with head tilted back, radiating relaxed pleasure in warm tavern light."
+,,,2,contentment,"The man in pink leaning back, pipe raised, exhales with relaxed ease — a picture of leisurely satisfaction."
+,,,3,contentment,"The man in pink exhales smoke with head tilted back, radiating relaxed ease in warm tavern light."
+,In the Night (Marc Chagall) - Naïve Art (Primitivism),GPT 5.3,1,contentment,"The couple embracing under the glowing lamp and crescent moon creates a calm, intimate atmosphere."
+,,,2,contentment,"The embracing couple under the soft lamp and crescent moon creates a calm, intimate atmosphere."
+,,,3,awe,"Floating couple under a glowing lamp and crescent moon creates a dreamlike, surreal atmosphere."
+,,Muse Spark,1,awe,"The suspended lamp and crescent moon over the snowy rooftops create a dreamlike, wondrous night."
+,,,2,contentment,"The embracing couple under the floating lamp creates a quiet, intimate warmth against the snowy night."
+,,,3,awe,"The floating lamp and crescent moon over embracing lovers create a dreamlike, wondrous village night."
+,,Gemini 3.1 Pro,1,contentment,"The couple embracing in the snow beneath the warm, glowing lamp creates a quiet, intimate feeling of peace."
+,,,2,contentment,The warm glow of the oversized lamp above the embracing couple in the snowy village evokes a deep sense of peace.
+,,,3,contentment,"The couple's gentle embrace in the quiet, snow-covered village evokes a deep sense of peace."
+,,Sonnet 4.6,1,contentment,"The embracing couple under a warm glowing lamp and crescent moon evokes tender, peaceful romantic warmth."
+,,,2,contentment,The embracing couple under a warm lamp glow and crescent moon radiates quiet romantic tenderness.
+,,,3,awe,"The glowing lamp, crescent moon, and floating figures over a snowy village create a dreamlike, magical atmosphere."
+,If once you have slept on an island (Jamie Wyeth),GPT 5.3,1,sadness,The woman’s distant gaze and dim room with snow outside create a feeling of isolation and melancholy.
+,,,2,sadness,"The woman’s distant gaze and cold snowy window create a lonely, melancholic atmosphere."
+,,,3,sadness,"The woman’s distant gaze and the cold light from the window create a lonely, melancholic mood."
+,,Muse Spark,1,sadness,The woman's vacant stare and windswept hair by the stormy window evoke isolation.
+,,,2,sadness,Her downcast gaze and windswept hair by the broken window convey isolation and melancholy.
+,,,3,sadness,The woman's distant gaze and windswept hair beside the broken window convey loneliness.
+,,Gemini 3.1 Pro,1,sadness,"Her distant gaze away from the turbulent sea visible in the window evokes a quiet, melancholic isolation."
+,,,2,sadness,"Her distant gaze and the brightly lit, empty bed against the dark room evoke a feeling of wistful longing and isolation."
+,,,3,sadness,The woman's distant gaze and the turbulent sea in the window evoke a deep sense of nostalgic longing.
+,,Sonnet 4.6,1,awe,The wind-blown hair and glowing sea through the window create a sense of wonder and longing.
+,,,2,awe,The wind-blown hair and vast blue sea through the window evoke a sense of wonder and yearning.
+,,,3,awe,The wind-blown hair and glowing sea through the window create a sense of wonder and longing.
+Abstract,Sea Painting I (Brice Marden),GPT 5.3,1,contentment,"The soft horizontal split and muted grey tones create a calm, balanced, and soothing visual atmosphere."
+,,,2,contentment,"The large grey fields and soft horizontal division create a calm, balanced, and quiet visual atmosphere."
+,,,3,contentment,"The simple horizontal split and muted grey tones create a calm, balanced, and meditative visual stillness."
+,,Muse Spark,1,sadness,"The flat, muted gray blocks and sharp horizon feel bleak and empty, suggesting melancholy."
+,,,2,sadness,"The flat dark gray lower field and pale upper void feel heavy, evoking quiet melancholy."
+,,,3,sadness,The muted gray tones and stark horizon feel bleak and isolating.
+,,Gemini 3.1 Pro,1,sadness,"The heavy, dark grey lower half and stark, flat horizon line create a cold, desolate atmosphere."
+,,,2,contentment,"The flat, level horizon line and soft, monochromatic grey tones create a soothing and perfectly balanced stillness."
+,,,3,sadness,"The muted gray palette and stark horizontal division create a vast, empty feeling that conveys quiet melancholy."
+,,Sonnet 4.6,1,contentment,The flat horizon line dividing pale grey sky from dark sea evokes calm stillness.
+,,,2,contentment,"The flat horizon line and muted grey tones evoke calm stillness, like a quiet, overcast seascape at rest."
+,,,3,contentment,The clean horizontal divide between soft grey sky and dark sea evokes quiet calm.
+,Lemongrass Blackpepper Bush (Frank Bowling),GPT 5.3,1,awe,"The diffuse golden light and dense layered colors create a luminous, immersive field."
+,,,2,awe,"Radiant yellows and layered textures create a luminous, immersive depth that feels expansive and transcendent."
+,,,3,awe,"Dense layers of glowing yellows and reds with scattered brushstrokes create a vast, immersive visual intensity."
+,,Muse Spark,1,awe,The glowing yellow-orange center and scattered speckles feel vast and luminous.
+,,,2,awe,"The glowing golden-yellow center and scattered speckles create a vast, immersive light field."
+,,,3,awe,"The radiant golden center and scattered speckles feel expansive, inspiring wonder."
+,,Gemini 3.1 Pro,1,awe,"The luminous golden glow and complex layering of textures create a sense of vast, ethereal brilliance."
+,,,2,contentment,"The warm, glowing orange center blending with soft greens creates a calming, sunlit vibe."
+,,,3,awe,"The glowing, bright orange vertical center contrasting with textured green edges feels deeply radiant and majestic."
+,,Sonnet 4.6,1,contentment,"Warm golden-yellow tones and soft layered textures evoke a calm, sun-drenched sense of peace."
+,,,2,contentment,"Warm golden-yellow tones and soft, layered textures create a calm, sun-drenched feeling."
+,,,3,contentment,"Warm golden-yellow tones and soft organic textures evoke a calm, sun-drenched natural harmony."
+,Cyprian Evocation (Brice Marden),GPT 5.3,1,something else,"Sparse abstract lines form a fragmented human figure, evoking ambiguity rather than a clear emotion."
+,,,2,amusement,"Loose, scribbled lines form playful, exaggerated figures, creating a humorous and lively impression."
+,,,3,something else,"Sparse black lines form an abstract human figure, evoking ambiguity rather than a clear emotion."
+,,Muse Spark,1,something else,"The chaotic black scribbles feel neutral, more puzzling than emotional."
+,,,2,something else,"The tangled black lines are indecipherable, evoking neutral curiosity not a listed emotion."
+,,,3,something else,"The central tangle of chaotic black lines feels neutral, with no clear emotional charge."
+,,Gemini 3.1 Pro,1,something else,The tangled black lines in the center evoke contemplation and ambiguity rather than any listed primary emotion.
+,,,2,something else,"The abstract, overlapping black lines evoke a sense of calm curiosity rather than the listed strong emotions."
+,,,3,something else,"The chaotic, overlapping black lines against the pale background evoke a sense of ambiguous curiosity."
+,,Sonnet 4.6,1,awe,"The swirling dark lines create a sense of dynamic energy and movement, evoking wonder at expressive abstraction."
+,,,2,awe,"The fluid, energetic lines create a sense of dynamic movement, evoking wonder at expressive abstraction."
+,,,3,awe,"The fluid, gestural lines create a swirling figure that feels energetic and transcendent, evoking wonder."
+,Corona I (Paul Brach),GPT 5.3,1,contentment,"Soft orange gradient and diffused central glow create a warm, calming atmosphere"
+,,,2,contentment,"Soft orange gradient and diffuse center create a warm, calm, soothing visual atmosphere"
+,,,3,contentment,"Soft orange gradient and diffused circular glow create a warm, calm visual atmosphere"
+,,Muse Spark,1,contentment,The soft orange halo and warm yellow field feel soothing and calm.
+,,,2,contentment,The soft orange halo and warm yellow field feel calming and peaceful.
+,,,3,contentment,"The soft, diffused orange halo and warm yellow field feel calming and soothing."
+,,Gemini 3.1 Pro,1,contentment,"The soft, warm orange center fading gently into the yellow background creates a soothing and peaceful mood."
+,,,2,contentment,The soft orange gradient blending into the bright yellow background evokes a soothing sense of warmth and calm.
+,,,3,contentment,"The soft, blurred edges and warm yellow-orange palette create a gentle, radiant glow that feels deeply soothing."
+,,Sonnet 4.6,1,awe,The radiant orange orb glowing against golden warmth evokes a sense of vastness and sublime solar power.
+,,,2,awe,"The radiant orange glow expanding outward like a sun evokes wonder and a sense of vast, warm energy."
+,,,3,awe,"The radiant orange halo glowing from the center evokes a sense of vastness and wonder, like witnessing a solar phenomenon."

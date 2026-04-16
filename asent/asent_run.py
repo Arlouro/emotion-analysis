@@ -1,5 +1,4 @@
 import spacy
-from spacy import displacy
 import asent
 
 # create spacy pipeline

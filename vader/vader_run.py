@@ -1,37 +1,25 @@
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import csv
+import os
 
 analyzer = SentimentIntensityAnalyzer()
 
-texts = []
+input = "./vader/data/llm_comparative_analysis.csv"
+output = "./vader/results/llm_comparative_analysis_results.csv"
 
-with open("./vader/data/llm_comparative_analysis.csv", "r", encoding="utf-8") as f:
-    reader = csv.reader(f)
-    next(reader)  # skip header
-    for row in reader:
-        texts.append(row[5])
-
-# CSV header
-with open("./vader/results/sentiment_analysis.csv", "w", encoding="utf-8") as f:
-    f.write("Text,Negative,Neutral,Positive,Compound")
-    f.write("\n")
-
-results = []
-
-for text in texts:
-    sentiment = analyzer.polarity_scores(text)
-    print(f"Text: {text}")
-    print(f"Sentiment: {sentiment}")
+with open(input, 'r') as f:
+    reader = csv.DictReader(f)
+    fieldnames = reader.fieldnames + ['vader_neg', 'vader_neu', 'vader_pos', 'vader_compound']
     
-    # save to array
-    results.append([text, sentiment['neg'], sentiment['neu'], sentiment['pos'], sentiment['compound']])
+    with open(output, 'w', newline='') as g:
+        writer = csv.DictWriter(g, fieldnames=fieldnames)
+        writer.writeheader()
 
-    # Save to txt file
-    """ with open("./vader/results/sentiment_analysis.txt", "a", encoding="utf-8") as f:
-        f.write(f"Text: {text}\n")
-        f.write(f"Sentiment: {sentiment}\n\n") """
-    
-# Save to CSV file
-with open("./vader/results/sentiment_analysis.csv", "a", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerows(results)
+        for row in reader:
+            text = row['Explanation']
+            sentiment = analyzer.polarity_scores(text)
+            row['vader_neg'] = sentiment['neg']
+            row['vader_neu'] = sentiment['neu']
+            row['vader_pos'] = sentiment['pos']
+            row['vader_compound'] = sentiment['compound']
+            writer.writerow(row)
